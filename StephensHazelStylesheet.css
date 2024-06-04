@@ -1,0 +1,99 @@
+body {
+background-color: #ffebba;
+}
+
+h1 {
+color: #a958a5;
+text-align: center;
+}
+h2 {
+color: #a958a5;
+text-align: center;
+}
+h3 {
+color: #a958a5;
+text-align: center;
+}
+p {
+  text-align: center;
+  color: #613e97;
+}
+
+ span.boldtext {
+      font-weight: bold;
+} span.italictext {
+    font-style: italic;
+}
+ #p3 {
+    text-align: center;
+    color: #f06261;
+}
+
+ol {text-align: center;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #B6B8D6;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: #394648;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #DAEDBD;}
+
+ul.topnav li a.active {background-color: #7E78D2;}
+
+ul.topnav li.right {float: right;}
+
+.img {
+  background-color: #9FC490;
+  width: 100%;
+  padding: 20px;
+
+}
+table {
+  width: 75%;
+}
+
+table, th, td {
+  border: 3px Dotted #b1f6e2;
+background-color: #90dcff;
+border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
+td {
+  text-align: left;
+height: 50px;
+  vertical-align: bottom;
+}
+
+th {
+  text-align: center;
+}
+
+Form{
+    text-align: center;
+    color: #f06261;}
